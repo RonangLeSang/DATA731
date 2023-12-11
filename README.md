@@ -6,3 +6,5 @@ dimensions :
 3655 (longueur) x 1688 (largeur) x 1416 (hauteur)
 
 de la frame 100 à la frame 204
+
+détectée en 6ème à la frame 100
